@@ -34,6 +34,6 @@ Here are some highlights of my work:
 
 ## 📫 Connect With Me  
 
-- **GitHub**: [@ArtOfWorking](https://github.com/ArtOfWorking)  
+- **GitHub**: [@ArtOfWorking](https://github.com/nitin-gupta-io)  
 - **LinkedIn**: [Nitin Gupta](https://in.linkedin.com/in/nitin-gupta-444491315)
 - **Email**: [nitinguptaun@gmail.com](mailto:nitinguptaun@gmail.com)  
